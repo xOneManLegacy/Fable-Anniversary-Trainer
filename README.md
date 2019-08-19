@@ -1,2 +1,2 @@
 # Fable-Anniversary-Trainer
-Just Download as Zip for now
+If you want to use it you can either download the zip or just the individual release. 
