@@ -1,0 +1,141 @@
+--Melee--
+--Main Game--
+00 00:N/A
+D1 15:Iron Longsword
+D2 15:Iron Katana
+D3 15:Iron Clever
+D4 15:Iron Axe
+D5 15:Iron Mace
+D6 15:Iron Pickhammer
+D7 15:Iron Greathammer
+D8 15:Iron Greataxe
+D9 15:Iron Greatsword
+DA 15:Iron Greatmace
+DB 15:Steel Longsword
+DC 15:Steel Katana
+DD 15:Steel Clever
+DE 15:Steel Axe
+DF 15:Steel Mace
+E0 15:Steel Pickhammer
+E1 15:Steel Greathammer
+E2 15:Steel Greataxe
+E3 15:Steel Greatsword
+E4 15:Steel Greatmace
+E5 15:Obsidian Longsword
+E6 15:Obsidian Katana
+E7 15:Obsidian Clever
+E8 15:Obsidian Axe
+E9 15:Obsidian Mace
+EA 15:Obsidian Pickhammer
+EB 15:Obsidian Greathammer
+EC 15:Obsidian Greataxe
+ED 15:Obsidian Greatsword
+EE 15:Obsidian Greatmace
+EF 15:Master Longsword
+F0 15:Master Katana
+F1 15:Master Clever
+F2 15:Master Axe
+F3 15:Master Mace
+F4 15:Master Pickhammer
+F5 15:Master Greathammer
+F6 15:Master Greataxe
+F7 15:Master Greatsword
+F8 15:Master Greatmace
+F9 15:The Harbinger
+FA 15:The Avenger
+FB 15:The Katana Hiryu
+FC 15:The Cutlass Bluetane
+FD 15:Ronok the Axe
+FE 15:The Dollmaster's Mace
+FF 15:Wellow's Pickhammer
+00 16:The Murren Great Hammer
+01 16:The Murren Greataxe
+02 16:Solus Greatsword
+03 16:The Breaver
+04 16:The Sentinus
+05 16:Sword Of Aeons
+06 16:Sword Of Aeons
+07 16:Avo's Tear
+48 16:Frying Pan 100 Damage
+49 16:Frying Pan 0 Damage
+
+--DLC--
+70 16:Pirates Cutlass
+71 16:Rise of the Fenix
+72 16:Wardog's Sword
+73 16:The Buzzaxe
+74 16:Blacksmithy's Bludgeoner
+75 16:Axel the Axe
+76 16:N.W.A Staff
+77 16:Kraken Catcher
+78 16:Big Clucking Hammer
+79 16:Sword of Strategia
+7A 16:The Jackarse
+7B 16:Sophia's Sword
+7C 16:The Big Boo
+7D 16:Oneblade
+7E 16:The Headbanger
+7F 16:Hobbecaster
+80 16:Weapon of the Damned
+
+--Experimental--
+18 16:Stick
+19 16:Shortsword 20
+1A 16:Longsword 50
+1B 16:Greatsword 70
+1C 16:Skimitar 20 (Sword)
+1D 16:Hunting Knife 20
+1E 16:Longsword 30
+1F 16:Skimitar 100 (Beriver)
+20 16:Skimitar 170 (Avenger)
+21 16:Skimitar 120 (Oneblade)
+22 16:Skimitar 120 (Oneblade)
+23 16:Skimitar 40 (Hammer)
+24 16:Skimitar 40 (Hammer)
+25 16:Skimitar 30 (Axe)
+26 16:Skimitar 30 (Axe)
+27 16:Orkon's Club
+28 16:Skimitar 60 (Undead Axe)
+29 16:Undead Axe 75
+2A 16:Scimitar 80 (Sword)
+2B 16:Scimitar 90 (Axe)
+2C 16:Scimitar 90 (Axe)
+2D 16:Scimitar 100 (Knife)
+2E 16:Scimitar 150 (Sword)
+2F 16:Scimitar 180 (Mace)
+30 16:Scimitar 90 (Axe)
+31 16:Scimitar 150 (Nastro's Sword)
+32 16:Scimitar 90 (Nastro's Sheild)
+33 16:Iron Longsword 80
+34 16:Scimitar 20 (SSword)
+35 16:Hobbe Weapon 70 (Axe)
+36 16:Hobbe Weapon 20 (Axe)
+37 16:Hobbe Weapon 70 (LHammer)
+38 16:Hobbe Weapon 20 (LHammer)
+39 16:Hobbe Weapon 60 (SHammer)
+3A 16:Hobbe Weapon 20 (SHammer)
+3B 16:Hobbe Weapon 40 (Hobbecaster)
+3C 16:Hobbe Weapon 10 (Hobbecaster)
+3D 16:Scimitar 80 (Syth)
+3E 16:Hobbe Weapon 50 (Hobbecaster)
+3F 16:Hobbe Weapon 20 (Hobbecaster)
+40 16:Scimitar 120 (Pole)
+41 16:Scimitar 100 (Pole)
+42 16:Scimitar 200 (Thunder's Sword)
+43 16:Scimitar 400 (Thunder's Sword)
+44 16:Scimitar (Thunder's Sheild)
+45 16:Steel Katana 520
+46 16:Steel Katana 300
+47 16:Frying Pan (Headbanger)
+4A 16:Frying Pan 20 (Spade)
+63 16:Greatsword 40 (Longsword)
+64 16:Slayer 80 (The Berever)
+65 16:Sword 30
+66 16:Longsword 40
+67 16:Sword 30
+68 16:Sword 30
+69 16:Longsword (Red Minion)
+6A 16:Longsword 80 (Blue Minion) 
+6B 16:Longsword 220 (damned)
+6C 16:Frying Pan 10 (Blacksmith Hammer)
+6D 16:Longsword 100 (Blue Minion)

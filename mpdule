@@ -1,0 +1,3 @@
+getAddress('Fable Anniversary.exe') = 001B0000
+
+getAddress('Fable Anniversary.exe') + getModuleSize('Fable Anniversary.exe') = 03785000

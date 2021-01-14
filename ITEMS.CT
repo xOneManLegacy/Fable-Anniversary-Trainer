@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"Group 1"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>180</ID>
+          <Description>"Slot 1"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4395" RealAddress="577D2C00"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"1"</Description>
+              <LastState Value="9901" RealAddress="577D2C04"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>4</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>179</ID>
+          <Description>"2"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4408" RealAddress="577D2C14"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>181</ID>
+              <Description>"2"</Description>
+              <LastState Value="9902" RealAddress="577D2C18"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>18</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"3"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4404" RealAddress="577D2C28"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>182</ID>
+              <Description>"3"</Description>
+              <LastState Value="9903" RealAddress="577D2C2C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>2C</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"4"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4403" RealAddress="577D2C3C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>3C</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>183</ID>
+              <Description>"4"</Description>
+              <LastState Value="9904" RealAddress="577D2C40"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>40</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"5"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4385" RealAddress="577D2C50"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>50</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>14</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>184</ID>
+              <Description>"5"</Description>
+              <LastState Value="9905" RealAddress="577D2C54"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>54</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>14</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"6"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4387" RealAddress="577D2C64"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>64</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>185</ID>
+              <Description>"6"</Description>
+              <LastState Value="9906" RealAddress="577D2C68"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>68</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>126</ID>
+          <Description>"7"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4390" RealAddress="577D2C78"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>78</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>54</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>186</ID>
+              <Description>"7"</Description>
+              <LastState Value="9907" RealAddress="577D2C7C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>7C</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"8"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4394" RealAddress="577D2C8C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>8C</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>187</ID>
+              <Description>"8"</Description>
+              <LastState Value="9908" RealAddress="577D2C90"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>90</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"9"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4406" RealAddress="577D2CA0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>A0</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>188</ID>
+              <Description>"9"</Description>
+              <LastState Value="9909" RealAddress="577D2CA4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>A4</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"10"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4400" RealAddress="577D2CB4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>B4</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>189</ID>
+              <Description>"10"</Description>
+              <LastState Value="9910" RealAddress="577D2CB8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>B8</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"11"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4399" RealAddress="577D2CC8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>C8</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>190</ID>
+              <Description>"11"</Description>
+              <LastState Value="9911" RealAddress="577D2CCC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>CC</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"12"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4409" RealAddress="577D2CDC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>DC</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>14</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"12"</Description>
+              <LastState Value="9912" RealAddress="577D2CE0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>E0</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>14</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"13"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4407" RealAddress="577D2CF0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>192</ID>
+              <Description>"13"</Description>
+              <LastState Value="9913" RealAddress="577D2CF4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>F4</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>193</ID>
+          <Description>"14"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4405" RealAddress="577D2D04"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>104</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"14"</Description>
+              <LastState Value="9914" RealAddress="577D2D08"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>108</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"15"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4391" RealAddress="577D2D18"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>118</Offset>
+            <Offset>68</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>194</ID>
+              <Description>"15"</Description>
+              <LastState Value="9915" RealAddress="577D2D1C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>11C</Offset>
+                <Offset>68</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"Group 2"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>176</ID>
+          <Description>"1"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4428" RealAddress="577D3000"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>28</Offset>
+            <Offset>2C</Offset>
+            <Offset>10C</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"1"</Description>
+              <LastState Value="9991" RealAddress="577D3004"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>4</Offset>
+                <Offset>28</Offset>
+                <Offset>2C</Offset>
+                <Offset>10C</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>128</ID>
+          <Description>"2"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4416" RealAddress="577D3014"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>148</Offset>
+            <Offset>24</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>196</ID>
+              <Description>"2"</Description>
+              <LastState Value="9992" RealAddress="577D3018"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>18</Offset>
+                <Offset>148</Offset>
+                <Offset>24</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>197</ID>
+          <Description>"3"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4418" RealAddress="577D3028"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>28</Offset>
+            <Offset>28</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>54</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"3"</Description>
+              <LastState Value="9993" RealAddress="577D302C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>2C</Offset>
+                <Offset>28</Offset>
+                <Offset>28</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>177</ID>
+          <Description>"4"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4420" RealAddress="577D303C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322139C</Address>
+          <Offsets>
+            <Offset>3C</Offset>
+            <Offset>28</Offset>
+            <Offset>2C</Offset>
+            <Offset>64</Offset>
+            <Offset>1B8</Offset>
+            <Offset>1E0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>198</ID>
+              <Description>"4"</Description>
+              <LastState Value="9994" RealAddress="577D3040"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322139C</Address>
+              <Offsets>
+                <Offset>40</Offset>
+                <Offset>28</Offset>
+                <Offset>2C</Offset>
+                <Offset>64</Offset>
+                <Offset>1B8</Offset>
+                <Offset>1E0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"5"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4426" RealAddress="577D3050"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+031BB740</Address>
+          <Offsets>
+            <Offset>50</Offset>
+            <Offset>148</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+            <Offset>12C</Offset>
+            <Offset>20</Offset>
+            <Offset>16C</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>199</ID>
+              <Description>"5"</Description>
+              <LastState Value="9995" RealAddress="577D3054"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+031BB740</Address>
+              <Offsets>
+                <Offset>54</Offset>
+                <Offset>148</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+                <Offset>12C</Offset>
+                <Offset>20</Offset>
+                <Offset>16C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>138</ID>
+          <Description>"6"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4429" RealAddress="577D3064"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>64</Offset>
+            <Offset>8</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>54</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>200</ID>
+              <Description>"6"</Description>
+              <LastState Value="9996" RealAddress="577D3068"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>68</Offset>
+                <Offset>8</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>139</ID>
+          <Description>"7"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4430" RealAddress="577D3078"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>78</Offset>
+            <Offset>28</Offset>
+            <Offset>28</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>54</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>201</ID>
+              <Description>"7"</Description>
+              <LastState Value="9997" RealAddress="577D307C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>7C</Offset>
+                <Offset>28</Offset>
+                <Offset>28</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"8"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4422" RealAddress="577D308C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>8C</Offset>
+            <Offset>28</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>202</ID>
+              <Description>"8"</Description>
+              <LastState Value="9998" RealAddress="577D3090"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>90</Offset>
+                <Offset>28</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>124</ID>
+      <Description>"Group 3"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"1"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="5213" RealAddress="55CD5800"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>58</Offset>
+            <Offset>28</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>203</ID>
+              <Description>"1"</Description>
+              <LastState Value="9901" RealAddress="55CD5804"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>4</Offset>
+                <Offset>58</Offset>
+                <Offset>28</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"2"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4417" RealAddress="55CD5814"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>204</ID>
+              <Description>"2"</Description>
+              <LastState Value="9902" RealAddress="55CD5818"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>18</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>164</ID>
+          <Description>"3"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4557" RealAddress="55CD5828"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>1BC</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>205</ID>
+              <Description>"3"</Description>
+              <LastState Value="9903" RealAddress="55CD582C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>2C</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>1BC</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>206</ID>
+          <Description>"4"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4558" RealAddress="55CD583C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>3C</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>165</ID>
+              <Description>"4"</Description>
+              <LastState Value="9904" RealAddress="55CD5840"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>40</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"5"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4624" RealAddress="55CD5850"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C8</Address>
+          <Offsets>
+            <Offset>50</Offset>
+            <Offset>178</Offset>
+            <Offset>24</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"5"</Description>
+              <LastState Value="9905" RealAddress="55CD5854"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C8</Address>
+              <Offsets>
+                <Offset>54</Offset>
+                <Offset>178</Offset>
+                <Offset>24</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>132</ID>
+          <Description>"6"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4424" RealAddress="55CD5864"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>64</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>18C</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"6"</Description>
+              <LastState Value="9906" RealAddress="55CD5868"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>68</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>18C</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"7"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4607" RealAddress="55CD5878"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>78</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>1BC</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>235</ID>
+              <Description>"7"</Description>
+              <LastState Value="9907" RealAddress="55CD587C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>7C</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>1BC</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>234</ID>
+          <Description>"8"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4425" RealAddress="55CD588C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>8C</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>174</ID>
+              <Description>"8"</Description>
+              <LastState Value="9908" RealAddress="55CD5890"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>90</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>233</ID>
+          <Description>"9"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4561" RealAddress="55CD58A0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C8</Address>
+          <Offsets>
+            <Offset>A0</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>166</ID>
+              <Description>"9"</Description>
+              <LastState Value="9909" RealAddress="55CD58A4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C8</Address>
+              <Offsets>
+                <Offset>A4</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>232</ID>
+          <Description>"10"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4554" RealAddress="55CD58B4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>B4</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>146</ID>
+              <Description>"10"</Description>
+              <LastState Value="9910" RealAddress="55CD58B8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>B8</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"11"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4633" RealAddress="55CD58C8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>C8</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"11"</Description>
+              <LastState Value="9911" RealAddress="55CD58CC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>CC</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>133</ID>
+          <Description>"12"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4615" RealAddress="55CD58DC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>DC</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>6C</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"12"</Description>
+              <LastState Value="9912" RealAddress="55CD58E0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>E0</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>6C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>167</ID>
+          <Description>"13"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4553" RealAddress="55CD58F0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"13"</Description>
+              <LastState Value="9913" RealAddress="55CD58F4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>F4</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"14"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4556" RealAddress="55CD5904"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>104</Offset>
+            <Offset>178</Offset>
+            <Offset>24</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"14"</Description>
+              <LastState Value="9914" RealAddress="55CD5908"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>108</Offset>
+                <Offset>178</Offset>
+                <Offset>24</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"15"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4559" RealAddress="55CD5918"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>118</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>15C</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>227</ID>
+              <Description>"15"</Description>
+              <LastState Value="9915" RealAddress="55CD591C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>11C</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>15C</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"16"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4631" RealAddress="55CD592C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>12C</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"16"</Description>
+              <LastState Value="9916" RealAddress="55CD5930"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>130</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"17"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4606" RealAddress="55CD5940"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>140</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>225</ID>
+              <Description>"17"</Description>
+              <LastState Value="9917" RealAddress="55CD5944"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>144</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>150</ID>
+          <Description>"18"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4555" RealAddress="55CD5954"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>154</Offset>
+            <Offset>178</Offset>
+            <Offset>24</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>14</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"18"</Description>
+              <LastState Value="9918" RealAddress="55CD5958"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>158</Offset>
+                <Offset>178</Offset>
+                <Offset>24</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>14</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>168</ID>
+          <Description>"19"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4623" RealAddress="55CD5968"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>168</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>4C</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>223</ID>
+              <Description>"19"</Description>
+              <LastState Value="9919" RealAddress="55CD596C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>16C</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>4C</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"20"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4575" RealAddress="55CD597C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>17C</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>54</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"20"</Description>
+              <LastState Value="9920" RealAddress="55CD5980"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>180</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"21"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4591" RealAddress="55CD5990"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>190</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>221</ID>
+              <Description>"21"</Description>
+              <LastState Value="9921" RealAddress="55CD5994"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>194</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>169</ID>
+          <Description>"22"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4609" RealAddress="55CD59A4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>1A4</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>1EC</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>220</ID>
+              <Description>"22"</Description>
+              <LastState Value="9922" RealAddress="55CD59A8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>1A8</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>1EC</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>153</ID>
+          <Description>"23"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4552" RealAddress="55CD59B8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>1B8</Offset>
+            <Offset>58</Offset>
+            <Offset>28</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>4</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"23"</Description>
+              <LastState Value="9923" RealAddress="55CD59BC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>1BC</Offset>
+                <Offset>58</Offset>
+                <Offset>28</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>4</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>154</ID>
+          <Description>"24"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="5240" RealAddress="55CD59CC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>1CC</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>218</ID>
+              <Description>"24"</Description>
+              <LastState Value="9924" RealAddress="55CD59D0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>1D0</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>155</ID>
+          <Description>"25"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4570" RealAddress="55CD59E0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>1E0</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>AC</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"25"</Description>
+              <LastState Value="9925" RealAddress="55CD59E4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>1E4</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>AC</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>170</ID>
+          <Description>"26"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4627" RealAddress="55CD59F4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>1F4</Offset>
+            <Offset>58</Offset>
+            <Offset>28</Offset>
+            <Offset>4C</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>216</ID>
+              <Description>"26"</Description>
+              <LastState Value="9926" RealAddress="55CD59F8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>1F8</Offset>
+                <Offset>58</Offset>
+                <Offset>28</Offset>
+                <Offset>4C</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>115</ID>
+          <Description>"27"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4632" RealAddress="55CD5A08"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>208</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"27"</Description>
+              <LastState Value="9927" RealAddress="55CD5A0C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>20C</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>171</ID>
+          <Description>"28"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="5220" RealAddress="55CD5A1C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+          <Offsets>
+            <Offset>21C</Offset>
+            <Offset>178</Offset>
+            <Offset>24</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>A0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>214</ID>
+              <Description>"28"</Description>
+              <LastState Value="9928" RealAddress="55CD5A20"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322F1B0</Address>
+              <Offsets>
+                <Offset>220</Offset>
+                <Offset>178</Offset>
+                <Offset>24</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>10</Offset>
+                <Offset>A0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>157</ID>
+          <Description>"29"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4620" RealAddress="55CD5A30"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>230</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>CC</Offset>
+            <Offset>2C</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>213</ID>
+              <Description>"29"</Description>
+              <LastState Value="9929" RealAddress="55CD5A34"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>234</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>CC</Offset>
+                <Offset>2C</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>158</ID>
+          <Description>"30"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4626" RealAddress="55CD5A44"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>244</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>3C</Offset>
+            <Offset>28</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>212</ID>
+              <Description>"30"</Description>
+              <LastState Value="9930" RealAddress="55CD5A48"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>248</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>3C</Offset>
+                <Offset>28</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>159</ID>
+          <Description>"31"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4636" RealAddress="55CD5A58"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>258</Offset>
+            <Offset>178</Offset>
+            <Offset>24</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"31"</Description>
+              <LastState Value="9931" RealAddress="55CD5A5C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>25C</Offset>
+                <Offset>178</Offset>
+                <Offset>24</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>160</ID>
+          <Description>"32"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4638" RealAddress="55CD5A6C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>26C</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>210</ID>
+              <Description>"32"</Description>
+              <LastState Value="9932" RealAddress="55CD5A70"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>270</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>209</ID>
+          <Description>"33"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4637" RealAddress="55CD5A80"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>280</Offset>
+            <Offset>58</Offset>
+            <Offset>2C</Offset>
+            <Offset>5C</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>161</ID>
+              <Description>"33"</Description>
+              <LastState Value="9933" RealAddress="55CD5A84"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>284</Offset>
+                <Offset>58</Offset>
+                <Offset>2C</Offset>
+                <Offset>5C</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>172</ID>
+          <Description>"34"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4635" RealAddress="55CD5A94"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+          <Offsets>
+            <Offset>294</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>54</Offset>
+            <Offset>44</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>208</ID>
+              <Description>"34"</Description>
+              <LastState Value="9934" RealAddress="55CD5A98"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322D8C4</Address>
+              <Offsets>
+                <Offset>298</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>54</Offset>
+                <Offset>44</Offset>
+                <Offset>24</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>173</ID>
+          <Description>"35"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="4560" RealAddress="55CD5AA8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Fable Anniversary.exe"+0322FD00</Address>
+          <Offsets>
+            <Offset>2A8</Offset>
+            <Offset>38</Offset>
+            <Offset>24</Offset>
+            <Offset>3C</Offset>
+            <Offset>28</Offset>
+            <Offset>64</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>207</ID>
+              <Description>"35"</Description>
+              <LastState Value="9935" RealAddress="55CD5AAC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Fable Anniversary.exe"+0322FD00</Address>
+              <Offsets>
+                <Offset>2AC</Offset>
+                <Offset>38</Offset>
+                <Offset>24</Offset>
+                <Offset>3C</Offset>
+                <Offset>28</Offset>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
