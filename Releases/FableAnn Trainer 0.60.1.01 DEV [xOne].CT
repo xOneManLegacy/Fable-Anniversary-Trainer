@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CheatTable CheatEngineTableVersion="34">
-  <Forms>
-    <CETrainer Class="TTrainerForm" Encoding="Ascii85">y.M)c):Zfw5{Lo$wi]kdh!f)tae-?,WwfF,RpW[]3%H5fT6N;fb-KX@,4tacaOdlQ6Q@mql{TJU#m}-r?Av1}hb91UcyW3FAx9+}^DSd=6GnCPq;m?U2z9fI$#f:,cbWm()*a}BpGYQV#(69E)NYkWo7/#:kP?7WCdE@6lM({3Wh-pC*khwtb9:}Eq%30^E=JUtjPp;YU:BPOM#,+AAp/9ghSA7{?u/S3XS:ZU8kODwz=Nx4lw.}fS8)JH^Xx]MN#HL?S.wbjnp-BK/$rE}+O;Nl$.WcW;pr]_9A_1bF2v66V{$k0hG-n}40Bxrj*WByLa@NPgZL5#mk]DS1#Ba-^.bmYxmE-FS[88Y4VX,[+nS}cLcU_C5x=V*Ss@NArJ9yog-Y3]J5Z_h7HEn*y@sF.Xt%F%q6E/([EmhWL}tz9nFHGThTX]AEq%#.eT[Tqe!WNM/WAcn+Q/7YG^*5H#[(UQ-S;k^KX*VBQPs_@)Z6c6F{qC6?i%XXxU3#B%D4?-6[3xOBpmgIuon,nWwZTdUu=?plL:16y_OKX!,xAZErX38VAtWN8.9RoexA-4UwJl}E04iGlhw6pOm1DDw#lZn2qR%u#,;dI;2;YNPhf?RzXO?+Kzu9Gl7^7@@c,u6L4@{#MBJ!3u5}n;yjWmP)wAr6IbNll*ab5RkxyOq6RmFAQR{=g]Rw=qAZsLWW+@l^d8WE^QaX{1ESa$zRm5=-XjK9T+sbl!wZxjv$1:D[??y}3!9$YTzmt5kL),)8[P.2WFQ0r-)_Lfnw[Vm]+Bi1_71]UG=6GFc]Iw:6imj98MgG!CSBK4mTi(hB?ECG;z#j</CETrainer>
-  </Forms>
   <CheatEntries>
     <CheatEntry>
       <ID>37</ID>
       <Description>"Player"</Description>
       <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
@@ -83,7 +80,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="D1 0D" RealAddress="643AE400"/>
+                      <LastState Value="D1 0D" RealAddress="259C8400"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -139,7 +136,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE414"/>
+                      <LastState Value="00 00" RealAddress="259C8414"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -195,7 +192,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE428"/>
+                      <LastState Value="00 00" RealAddress="259C8428"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -251,7 +248,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE43C"/>
+                      <LastState Value="00 00" RealAddress="259C843C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -307,7 +304,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE450"/>
+                      <LastState Value="00 00" RealAddress="259C8450"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -363,7 +360,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE464"/>
+                      <LastState Value="00 00" RealAddress="259C8464"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -419,7 +416,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE478"/>
+                      <LastState Value="00 00" RealAddress="259C8478"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -475,7 +472,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE48C"/>
+                      <LastState Value="00 00" RealAddress="259C848C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -531,7 +528,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE4A0"/>
+                      <LastState Value="00 00" RealAddress="259C84A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -587,7 +584,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE4B4"/>
+                      <LastState Value="00 00" RealAddress="259C84B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -643,7 +640,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE4C8"/>
+                      <LastState Value="00 00" RealAddress="259C84C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -699,7 +696,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE4DC"/>
+                      <LastState Value="00 00" RealAddress="259C84DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -755,7 +752,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE4F0"/>
+                      <LastState Value="00 00" RealAddress="259C84F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -811,7 +808,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE504"/>
+                      <LastState Value="00 00" RealAddress="259C8504"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -867,7 +864,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE518"/>
+                      <LastState Value="00 00" RealAddress="259C8518"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -923,7 +920,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE52C"/>
+                      <LastState Value="00 00" RealAddress="259C852C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -979,7 +976,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE540"/>
+                      <LastState Value="00 00" RealAddress="259C8540"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1035,7 +1032,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE554"/>
+                      <LastState Value="00 00" RealAddress="259C8554"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1091,7 +1088,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE568"/>
+                      <LastState Value="00 00" RealAddress="259C8568"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1147,7 +1144,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE57C"/>
+                      <LastState Value="00 00" RealAddress="259C857C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1203,7 +1200,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE590"/>
+                      <LastState Value="00 00" RealAddress="259C8590"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1259,7 +1256,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE5A4"/>
+                      <LastState Value="00 00" RealAddress="259C85A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1315,7 +1312,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE5B8"/>
+                      <LastState Value="00 00" RealAddress="259C85B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1371,7 +1368,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE5CC"/>
+                      <LastState Value="00 00" RealAddress="259C85CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1427,7 +1424,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE5E0"/>
+                      <LastState Value="00 00" RealAddress="259C85E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1483,7 +1480,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE5F4"/>
+                      <LastState Value="00 00" RealAddress="259C85F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1539,7 +1536,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE608"/>
+                      <LastState Value="00 00" RealAddress="259C8608"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1595,7 +1592,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE61C"/>
+                      <LastState Value="00 00" RealAddress="259C861C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1651,7 +1648,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE630"/>
+                      <LastState Value="00 00" RealAddress="259C8630"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1707,7 +1704,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE644"/>
+                      <LastState Value="00 00" RealAddress="259C8644"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1763,7 +1760,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE658"/>
+                      <LastState Value="00 00" RealAddress="259C8658"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1819,7 +1816,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE66C"/>
+                      <LastState Value="00 00" RealAddress="259C866C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1875,7 +1872,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE680"/>
+                      <LastState Value="00 00" RealAddress="259C8680"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -1931,7 +1928,7 @@ D1 0D:No Hats
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AE694"/>
+                      <LastState Value="00 00" RealAddress="259C8694"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2007,7 +2004,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="A7 0D" RealAddress="643AD000"/>
+                      <LastState Value="A7 0D" RealAddress="259C8000"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2074,7 +2071,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="9F 0D" RealAddress="643AD014"/>
+                      <LastState Value="9F 0D" RealAddress="259C8014"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2141,7 +2138,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="A0 0D" RealAddress="643AD028"/>
+                      <LastState Value="A0 0D" RealAddress="259C8028"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2208,7 +2205,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="8E 0D" RealAddress="643AD03C"/>
+                      <LastState Value="8E 0D" RealAddress="259C803C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2275,7 +2272,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD050"/>
+                      <LastState Value="00 00" RealAddress="259C8050"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2342,7 +2339,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD064"/>
+                      <LastState Value="00 00" RealAddress="259C8064"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2409,7 +2406,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD078"/>
+                      <LastState Value="00 00" RealAddress="259C8078"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2476,7 +2473,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD08C"/>
+                      <LastState Value="00 00" RealAddress="259C808C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2543,7 +2540,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD0A0"/>
+                      <LastState Value="00 00" RealAddress="259C80A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2610,7 +2607,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD0B4"/>
+                      <LastState Value="00 00" RealAddress="259C80B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2677,7 +2674,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD0C8"/>
+                      <LastState Value="00 00" RealAddress="259C80C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2744,7 +2741,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD0DC"/>
+                      <LastState Value="00 00" RealAddress="259C80DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2811,7 +2808,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD0F0"/>
+                      <LastState Value="00 00" RealAddress="259C80F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2878,7 +2875,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD104"/>
+                      <LastState Value="00 00" RealAddress="259C8104"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -2945,7 +2942,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD118"/>
+                      <LastState Value="00 00" RealAddress="259C8118"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3012,7 +3009,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD12C"/>
+                      <LastState Value="00 00" RealAddress="259C812C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3079,7 +3076,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD140"/>
+                      <LastState Value="00 00" RealAddress="259C8140"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3146,7 +3143,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD154"/>
+                      <LastState Value="00 00" RealAddress="259C8154"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3213,7 +3210,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD168"/>
+                      <LastState Value="00 00" RealAddress="259C8168"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3280,7 +3277,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD17C"/>
+                      <LastState Value="00 00" RealAddress="259C817C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3347,7 +3344,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD190"/>
+                      <LastState Value="00 00" RealAddress="259C8190"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3414,7 +3411,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD1A4"/>
+                      <LastState Value="00 00" RealAddress="259C81A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3481,7 +3478,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD1B8"/>
+                      <LastState Value="00 00" RealAddress="259C81B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3548,7 +3545,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD1CC"/>
+                      <LastState Value="00 00" RealAddress="259C81CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3615,7 +3612,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD1E0"/>
+                      <LastState Value="00 00" RealAddress="259C81E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3682,7 +3679,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD1F4"/>
+                      <LastState Value="00 00" RealAddress="259C81F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3749,7 +3746,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD208"/>
+                      <LastState Value="00 00" RealAddress="259C8208"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3816,7 +3813,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD21C"/>
+                      <LastState Value="00 00" RealAddress="259C821C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3883,7 +3880,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD230"/>
+                      <LastState Value="00 00" RealAddress="259C8230"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -3950,7 +3947,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD244"/>
+                      <LastState Value="00 00" RealAddress="259C8244"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4017,7 +4014,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD258"/>
+                      <LastState Value="00 00" RealAddress="259C8258"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4084,7 +4081,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD26C"/>
+                      <LastState Value="00 00" RealAddress="259C826C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4151,7 +4148,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD280"/>
+                      <LastState Value="00 00" RealAddress="259C8280"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4218,7 +4215,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD294"/>
+                      <LastState Value="00 00" RealAddress="259C8294"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4285,7 +4282,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD2A8"/>
+                      <LastState Value="00 00" RealAddress="259C82A8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4352,7 +4349,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD2BC"/>
+                      <LastState Value="00 00" RealAddress="259C82BC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4419,7 +4416,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD2D0"/>
+                      <LastState Value="00 00" RealAddress="259C82D0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4486,7 +4483,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD2E4"/>
+                      <LastState Value="00 00" RealAddress="259C82E4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4553,7 +4550,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD2F8"/>
+                      <LastState Value="00 00" RealAddress="259C82F8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4620,7 +4617,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD30C"/>
+                      <LastState Value="00 00" RealAddress="259C830C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4687,7 +4684,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD320"/>
+                      <LastState Value="00 00" RealAddress="259C8320"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4754,7 +4751,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD334"/>
+                      <LastState Value="00 00" RealAddress="259C8334"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4821,7 +4818,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD348"/>
+                      <LastState Value="00 00" RealAddress="259C8348"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4888,7 +4885,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD35C"/>
+                      <LastState Value="00 00" RealAddress="259C835C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -4955,7 +4952,7 @@ FF 0D:Maze's Lost Shirt
 
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AD370"/>
+                      <LastState Value="00 00" RealAddress="259C8370"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5030,7 +5027,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="C0 0D" RealAddress="643AF000"/>
+                      <LastState Value="C0 0D" RealAddress="259C9400"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5096,7 +5093,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="B9 0D" RealAddress="643AF014"/>
+                      <LastState Value="B9 0D" RealAddress="259C9414"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5162,7 +5159,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="A8 0D" RealAddress="643AF028"/>
+                      <LastState Value="A8 0D" RealAddress="259C9428"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5228,7 +5225,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF03C"/>
+                      <LastState Value="00 00" RealAddress="259C943C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5294,7 +5291,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF050"/>
+                      <LastState Value="00 00" RealAddress="259C9450"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5360,7 +5357,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF064"/>
+                      <LastState Value="00 00" RealAddress="259C9464"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5426,7 +5423,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF078"/>
+                      <LastState Value="00 00" RealAddress="259C9478"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5492,7 +5489,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF08C"/>
+                      <LastState Value="00 00" RealAddress="259C948C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5558,7 +5555,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF0A0"/>
+                      <LastState Value="00 00" RealAddress="259C94A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5624,7 +5621,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF0B4"/>
+                      <LastState Value="00 00" RealAddress="259C94B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5690,7 +5687,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF0C8"/>
+                      <LastState Value="00 00" RealAddress="259C94C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5756,7 +5753,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF0DC"/>
+                      <LastState Value="00 00" RealAddress="259C94DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5822,7 +5819,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF0F0"/>
+                      <LastState Value="00 00" RealAddress="259C94F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5888,7 +5885,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF104"/>
+                      <LastState Value="00 00" RealAddress="259C9504"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -5954,7 +5951,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF118"/>
+                      <LastState Value="00 00" RealAddress="259C9518"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6020,7 +6017,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF12C"/>
+                      <LastState Value="00 00" RealAddress="259C952C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6086,7 +6083,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF140"/>
+                      <LastState Value="00 00" RealAddress="259C9540"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6152,7 +6149,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF154"/>
+                      <LastState Value="00 00" RealAddress="259C9554"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6218,7 +6215,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF168"/>
+                      <LastState Value="00 00" RealAddress="259C9568"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6284,7 +6281,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF17C"/>
+                      <LastState Value="00 00" RealAddress="259C957C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6350,7 +6347,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF190"/>
+                      <LastState Value="00 00" RealAddress="259C9590"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6416,7 +6413,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF1A4"/>
+                      <LastState Value="00 00" RealAddress="259C95A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6482,7 +6479,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF1B8"/>
+                      <LastState Value="00 00" RealAddress="259C95B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6548,7 +6545,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF1CC"/>
+                      <LastState Value="00 00" RealAddress="259C95CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6614,7 +6611,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF1E0"/>
+                      <LastState Value="00 00" RealAddress="259C95E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6680,7 +6677,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF1F4"/>
+                      <LastState Value="00 00" RealAddress="259C95F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6746,7 +6743,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF208"/>
+                      <LastState Value="00 00" RealAddress="259C9608"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6812,7 +6809,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF21C"/>
+                      <LastState Value="00 00" RealAddress="259C961C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6878,7 +6875,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF230"/>
+                      <LastState Value="00 00" RealAddress="259C9630"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -6944,7 +6941,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF244"/>
+                      <LastState Value="00 00" RealAddress="259C9644"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7010,7 +7007,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF258"/>
+                      <LastState Value="00 00" RealAddress="259C9658"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7076,7 +7073,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF26C"/>
+                      <LastState Value="00 00" RealAddress="259C966C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7142,7 +7139,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF280"/>
+                      <LastState Value="00 00" RealAddress="259C9680"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7208,7 +7205,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF294"/>
+                      <LastState Value="00 00" RealAddress="259C9694"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7274,7 +7271,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF2A8"/>
+                      <LastState Value="00 00" RealAddress="259C96A8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7340,7 +7337,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF2BC"/>
+                      <LastState Value="00 00" RealAddress="259C96BC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7406,7 +7403,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF2D0"/>
+                      <LastState Value="00 00" RealAddress="259C96D0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7472,7 +7469,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF2E4"/>
+                      <LastState Value="00 00" RealAddress="259C96E4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7538,7 +7535,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF2F8"/>
+                      <LastState Value="00 00" RealAddress="259C96F8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7604,7 +7601,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF30C"/>
+                      <LastState Value="00 00" RealAddress="259C970C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7670,7 +7667,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF320"/>
+                      <LastState Value="00 00" RealAddress="259C9720"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7736,7 +7733,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF334"/>
+                      <LastState Value="00 00" RealAddress="259C9734"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7802,7 +7799,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF348"/>
+                      <LastState Value="00 00" RealAddress="259C9748"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7868,7 +7865,7 @@ BF 0D:Dark Dress Gloves
 00 00:Inactive
 C0 0D:No Gloves
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AF35C"/>
+                      <LastState Value="00 00" RealAddress="259C975C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -7943,7 +7940,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="8D 0D" RealAddress="643A9800"/>
+                      <LastState Value="8D 0D" RealAddress="259CB400"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8009,7 +8006,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="86 0D" RealAddress="643A9814"/>
+                      <LastState Value="86 0D" RealAddress="259CB414"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8075,7 +8072,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="75 0D" RealAddress="643A9828"/>
+                      <LastState Value="75 0D" RealAddress="259CB428"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8141,7 +8138,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A983C"/>
+                      <LastState Value="00 00" RealAddress="259CB43C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8207,7 +8204,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9850"/>
+                      <LastState Value="00 00" RealAddress="259CB450"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8273,7 +8270,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9864"/>
+                      <LastState Value="00 00" RealAddress="259CB464"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8339,7 +8336,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9878"/>
+                      <LastState Value="00 00" RealAddress="259CB478"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8405,7 +8402,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A988C"/>
+                      <LastState Value="00 00" RealAddress="259CB48C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8471,7 +8468,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A98A0"/>
+                      <LastState Value="00 00" RealAddress="259CB4A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8537,7 +8534,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A98B4"/>
+                      <LastState Value="00 00" RealAddress="259CB4B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8603,7 +8600,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A98C8"/>
+                      <LastState Value="00 00" RealAddress="259CB4C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8669,7 +8666,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A98DC"/>
+                      <LastState Value="00 00" RealAddress="259CB4DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8735,7 +8732,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A98F0"/>
+                      <LastState Value="00 00" RealAddress="259CB4F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8801,7 +8798,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9904"/>
+                      <LastState Value="00 00" RealAddress="259CB504"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8867,7 +8864,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9918"/>
+                      <LastState Value="00 00" RealAddress="259CB518"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8933,7 +8930,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A992C"/>
+                      <LastState Value="00 00" RealAddress="259CB52C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -8999,7 +8996,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9940"/>
+                      <LastState Value="00 00" RealAddress="259CB540"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9065,7 +9062,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9954"/>
+                      <LastState Value="00 00" RealAddress="259CB554"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9131,7 +9128,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9968"/>
+                      <LastState Value="00 00" RealAddress="259CB568"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9197,7 +9194,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A997C"/>
+                      <LastState Value="00 00" RealAddress="259CB57C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9263,7 +9260,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9990"/>
+                      <LastState Value="00 00" RealAddress="259CB590"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9329,7 +9326,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A99A4"/>
+                      <LastState Value="00 00" RealAddress="259CB5A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9395,7 +9392,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A99B8"/>
+                      <LastState Value="00 00" RealAddress="259CB5B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9461,7 +9458,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A99CC"/>
+                      <LastState Value="00 00" RealAddress="259CB5CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9527,7 +9524,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A99E0"/>
+                      <LastState Value="00 00" RealAddress="259CB5E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9593,7 +9590,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A99F4"/>
+                      <LastState Value="00 00" RealAddress="259CB5F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9659,7 +9656,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A08"/>
+                      <LastState Value="00 00" RealAddress="259CB608"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9725,7 +9722,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A1C"/>
+                      <LastState Value="00 00" RealAddress="259CB61C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9791,7 +9788,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A30"/>
+                      <LastState Value="00 00" RealAddress="259CB630"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9857,7 +9854,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A44"/>
+                      <LastState Value="00 00" RealAddress="259CB644"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9923,7 +9920,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A58"/>
+                      <LastState Value="00 00" RealAddress="259CB658"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -9989,7 +9986,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A6C"/>
+                      <LastState Value="00 00" RealAddress="259CB66C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10055,7 +10052,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A80"/>
+                      <LastState Value="00 00" RealAddress="259CB680"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10121,7 +10118,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9A94"/>
+                      <LastState Value="00 00" RealAddress="259CB694"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10187,7 +10184,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9AA8"/>
+                      <LastState Value="00 00" RealAddress="259CB6A8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10253,7 +10250,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9ABC"/>
+                      <LastState Value="00 00" RealAddress="259CB6BC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10319,7 +10316,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9AD0"/>
+                      <LastState Value="00 00" RealAddress="259CB6D0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10385,7 +10382,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9AE4"/>
+                      <LastState Value="00 00" RealAddress="259CB6E4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10451,7 +10448,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9AF8"/>
+                      <LastState Value="00 00" RealAddress="259CB6F8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10517,7 +10514,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9B0C"/>
+                      <LastState Value="00 00" RealAddress="259CB70C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10583,7 +10580,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9B20"/>
+                      <LastState Value="00 00" RealAddress="259CB720"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10649,7 +10646,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9B34"/>
+                      <LastState Value="00 00" RealAddress="259CB734"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10715,7 +10712,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9B48"/>
+                      <LastState Value="00 00" RealAddress="259CB748"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10781,7 +10778,7 @@ F7 0D:Aeon's Chest Piece
 00 00:Inactive
 8D 0D:No Pants
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643A9B5C"/>
+                      <LastState Value="00 00" RealAddress="259CB75C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10852,7 +10849,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="74 0D" RealAddress="643AB400"/>
+                      <LastState Value="74 0D" RealAddress="259C6800"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10914,7 +10911,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="70 0D" RealAddress="643AB414"/>
+                      <LastState Value="70 0D" RealAddress="259C6814"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -10976,7 +10973,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="5F 0D" RealAddress="643AB428"/>
+                      <LastState Value="5F 0D" RealAddress="259C6828"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11038,7 +11035,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB43C"/>
+                      <LastState Value="00 00" RealAddress="259C683C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11100,7 +11097,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB450"/>
+                      <LastState Value="00 00" RealAddress="259C6850"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11162,7 +11159,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB464"/>
+                      <LastState Value="00 00" RealAddress="259C6864"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11224,7 +11221,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB478"/>
+                      <LastState Value="00 00" RealAddress="259C6878"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11286,7 +11283,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB48C"/>
+                      <LastState Value="00 00" RealAddress="259C688C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11348,7 +11345,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB4A0"/>
+                      <LastState Value="00 00" RealAddress="259C68A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11410,7 +11407,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB4B4"/>
+                      <LastState Value="00 00" RealAddress="259C68B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11472,7 +11469,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB4C8"/>
+                      <LastState Value="00 00" RealAddress="259C68C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11534,7 +11531,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB4DC"/>
+                      <LastState Value="00 00" RealAddress="259C68DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11596,7 +11593,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB4F0"/>
+                      <LastState Value="00 00" RealAddress="259C68F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11658,7 +11655,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB504"/>
+                      <LastState Value="00 00" RealAddress="259C6904"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11720,7 +11717,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB518"/>
+                      <LastState Value="00 00" RealAddress="259C6918"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11782,7 +11779,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB52C"/>
+                      <LastState Value="00 00" RealAddress="259C692C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11844,7 +11841,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB540"/>
+                      <LastState Value="00 00" RealAddress="259C6940"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11906,7 +11903,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB554"/>
+                      <LastState Value="00 00" RealAddress="259C6954"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -11968,7 +11965,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB568"/>
+                      <LastState Value="00 00" RealAddress="259C6968"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12030,7 +12027,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB57C"/>
+                      <LastState Value="00 00" RealAddress="259C697C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12092,7 +12089,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB590"/>
+                      <LastState Value="00 00" RealAddress="259C6990"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12154,7 +12151,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB5A4"/>
+                      <LastState Value="00 00" RealAddress="259C69A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12216,7 +12213,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB5B8"/>
+                      <LastState Value="00 00" RealAddress="259C69B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12278,7 +12275,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB5CC"/>
+                      <LastState Value="00 00" RealAddress="259C69CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12340,7 +12337,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB5E0"/>
+                      <LastState Value="00 00" RealAddress="259C69E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12402,7 +12399,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB5F4"/>
+                      <LastState Value="00 00" RealAddress="259C69F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12464,7 +12461,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB608"/>
+                      <LastState Value="00 00" RealAddress="259C6A08"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12526,7 +12523,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB61C"/>
+                      <LastState Value="00 00" RealAddress="259C6A1C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12588,7 +12585,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB630"/>
+                      <LastState Value="00 00" RealAddress="259C6A30"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12650,7 +12647,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB644"/>
+                      <LastState Value="00 00" RealAddress="259C6A44"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12712,7 +12709,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB658"/>
+                      <LastState Value="00 00" RealAddress="259C6A58"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12774,7 +12771,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB66C"/>
+                      <LastState Value="00 00" RealAddress="259C6A6C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12836,7 +12833,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB680"/>
+                      <LastState Value="00 00" RealAddress="259C6A80"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12898,7 +12895,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB694"/>
+                      <LastState Value="00 00" RealAddress="259C6A94"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -12960,7 +12957,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB6A8"/>
+                      <LastState Value="00 00" RealAddress="259C6AA8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13022,7 +13019,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB6BC"/>
+                      <LastState Value="00 00" RealAddress="259C6ABC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13084,7 +13081,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB6D0"/>
+                      <LastState Value="00 00" RealAddress="259C6AD0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13146,7 +13143,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB6E4"/>
+                      <LastState Value="00 00" RealAddress="259C6AE4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13208,7 +13205,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB6F8"/>
+                      <LastState Value="00 00" RealAddress="259C6AF8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13270,7 +13267,7 @@ E4 0D:Aeon's Chest Boots
 74 0D:No Boots
 00 00:Inactive
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="643AB70C"/>
+                      <LastState Value="00 00" RealAddress="259C6B0C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13347,7 +13344,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="08 16" RealAddress="04656200"/>
+                      <LastState Value="08 16" RealAddress="67807000"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13406,7 +13403,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656214"/>
+                      <LastState Value="00 00" RealAddress="67807014"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13465,7 +13462,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656228"/>
+                      <LastState Value="00 00" RealAddress="67807028"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13524,7 +13521,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="0465623C"/>
+                      <LastState Value="00 00" RealAddress="6780703C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13583,7 +13580,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656250"/>
+                      <LastState Value="00 00" RealAddress="67807050"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13642,7 +13639,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656264"/>
+                      <LastState Value="00 00" RealAddress="67807064"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13701,7 +13698,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656278"/>
+                      <LastState Value="00 00" RealAddress="67807078"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13760,7 +13757,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="0465628C"/>
+                      <LastState Value="00 00" RealAddress="6780708C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13819,7 +13816,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="046562B4"/>
+                      <LastState Value="00 00" RealAddress="678070B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13878,7 +13875,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="046562C8"/>
+                      <LastState Value="00 00" RealAddress="678070C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13937,7 +13934,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="046562DC"/>
+                      <LastState Value="00 00" RealAddress="678070DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -13996,7 +13993,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="046562F0"/>
+                      <LastState Value="00 00" RealAddress="678070F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14055,7 +14052,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656304"/>
+                      <LastState Value="00 00" RealAddress="67807104"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14114,7 +14111,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="04656318"/>
+                      <LastState Value="00 00" RealAddress="67807118"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14173,7 +14170,7 @@ E4 0D:Aeon's Chest Boots
 62 16:Crossbow 80
 6B 16:Longswrod (Blue Minion Fireball)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="0465632C"/>
+                      <LastState Value="00 00" RealAddress="6780712C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14339,7 +14336,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="D1 15" RealAddress="082A4814"/>
+                      <LastState Value="D1 15" RealAddress="67408014"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14496,7 +14493,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4828"/>
+                      <LastState Value="00 00" RealAddress="67408028"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14653,7 +14650,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A483C"/>
+                      <LastState Value="00 00" RealAddress="6740803C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14810,7 +14807,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4850"/>
+                      <LastState Value="00 00" RealAddress="67408050"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -14967,7 +14964,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4864"/>
+                      <LastState Value="00 00" RealAddress="67408064"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15124,7 +15121,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4878"/>
+                      <LastState Value="00 00" RealAddress="67408078"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15281,7 +15278,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A488C"/>
+                      <LastState Value="00 00" RealAddress="6740808C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15438,7 +15435,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A48A0"/>
+                      <LastState Value="00 00" RealAddress="674080A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15595,7 +15592,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A48B4"/>
+                      <LastState Value="00 00" RealAddress="674080B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15752,7 +15749,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A48C8"/>
+                      <LastState Value="00 00" RealAddress="674080C8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -15909,7 +15906,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A48DC"/>
+                      <LastState Value="00 00" RealAddress="674080DC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16066,7 +16063,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A48F0"/>
+                      <LastState Value="00 00" RealAddress="674080F0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16223,7 +16220,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4904"/>
+                      <LastState Value="00 00" RealAddress="67408104"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16380,7 +16377,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4918"/>
+                      <LastState Value="00 00" RealAddress="67408118"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16537,7 +16534,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A492C"/>
+                      <LastState Value="00 00" RealAddress="6740812C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16694,7 +16691,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4940"/>
+                      <LastState Value="00 00" RealAddress="67408140"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -16851,7 +16848,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4954"/>
+                      <LastState Value="00 00" RealAddress="67408154"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17008,7 +17005,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4968"/>
+                      <LastState Value="00 00" RealAddress="67408168"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17165,7 +17162,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A497C"/>
+                      <LastState Value="00 00" RealAddress="6740817C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17322,7 +17319,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4990"/>
+                      <LastState Value="00 00" RealAddress="67408190"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17479,7 +17476,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A49A4"/>
+                      <LastState Value="00 00" RealAddress="674081A4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17636,7 +17633,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A49B8"/>
+                      <LastState Value="00 00" RealAddress="674081B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17793,7 +17790,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A49CC"/>
+                      <LastState Value="00 00" RealAddress="674081CC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -17950,7 +17947,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A49E0"/>
+                      <LastState Value="00 00" RealAddress="674081E0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18107,7 +18104,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A49F4"/>
+                      <LastState Value="00 00" RealAddress="674081F4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18264,7 +18261,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A08"/>
+                      <LastState Value="00 00" RealAddress="67408208"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18421,7 +18418,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A1C"/>
+                      <LastState Value="00 00" RealAddress="6740821C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18578,7 +18575,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A30"/>
+                      <LastState Value="00 00" RealAddress="67408230"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18735,7 +18732,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A44"/>
+                      <LastState Value="00 00" RealAddress="67408244"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -18892,7 +18889,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A58"/>
+                      <LastState Value="00 00" RealAddress="67408258"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19049,7 +19046,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A6C"/>
+                      <LastState Value="00 00" RealAddress="6740826C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19206,7 +19203,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A80"/>
+                      <LastState Value="00 00" RealAddress="67408280"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19363,7 +19360,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4A94"/>
+                      <LastState Value="00 00" RealAddress="67408294"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19520,7 +19517,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4AA8"/>
+                      <LastState Value="00 00" RealAddress="674082A8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19677,7 +19674,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4ABC"/>
+                      <LastState Value="00 00" RealAddress="674082BC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19834,7 +19831,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4AD0"/>
+                      <LastState Value="00 00" RealAddress="674082D0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -19991,7 +19988,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4AE4"/>
+                      <LastState Value="00 00" RealAddress="674082E4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20148,7 +20145,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4AF8"/>
+                      <LastState Value="00 00" RealAddress="674082F8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20305,7 +20302,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B0C"/>
+                      <LastState Value="00 00" RealAddress="6740830C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20462,7 +20459,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B20"/>
+                      <LastState Value="00 00" RealAddress="67408320"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20619,7 +20616,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B34"/>
+                      <LastState Value="00 00" RealAddress="67408334"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20776,7 +20773,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B48"/>
+                      <LastState Value="00 00" RealAddress="67408348"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -20933,7 +20930,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B5C"/>
+                      <LastState Value="00 00" RealAddress="6740835C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21090,7 +21087,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B70"/>
+                      <LastState Value="00 00" RealAddress="67408370"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21247,7 +21244,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B84"/>
+                      <LastState Value="00 00" RealAddress="67408384"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21404,7 +21401,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4B98"/>
+                      <LastState Value="00 00" RealAddress="67408398"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21561,7 +21558,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4BAC"/>
+                      <LastState Value="00 00" RealAddress="674083AC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21718,7 +21715,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4BC0"/>
+                      <LastState Value="00 00" RealAddress="674083C0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -21875,7 +21872,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4BD4"/>
+                      <LastState Value="00 00" RealAddress="674083D4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22032,7 +22029,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4BE8"/>
+                      <LastState Value="00 00" RealAddress="674083E8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22189,7 +22186,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4BFC"/>
+                      <LastState Value="00 00" RealAddress="674083FC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22346,7 +22343,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C10"/>
+                      <LastState Value="00 00" RealAddress="67408410"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22503,7 +22500,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C24"/>
+                      <LastState Value="00 00" RealAddress="67408424"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22660,7 +22657,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C38"/>
+                      <LastState Value="00 00" RealAddress="67408438"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22817,7 +22814,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C4C"/>
+                      <LastState Value="00 00" RealAddress="6740844C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -22974,7 +22971,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C60"/>
+                      <LastState Value="00 00" RealAddress="67408460"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23131,7 +23128,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C74"/>
+                      <LastState Value="00 00" RealAddress="67408474"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23288,7 +23285,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C88"/>
+                      <LastState Value="00 00" RealAddress="67408488"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23445,7 +23442,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4C9C"/>
+                      <LastState Value="00 00" RealAddress="6740849C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23602,7 +23599,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4CB0"/>
+                      <LastState Value="00 00" RealAddress="674084B0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23759,7 +23756,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4CC4"/>
+                      <LastState Value="00 00" RealAddress="674084C4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -23916,7 +23913,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4CD8"/>
+                      <LastState Value="00 00" RealAddress="674084D8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24073,7 +24070,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4CEC"/>
+                      <LastState Value="00 00" RealAddress="674084EC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24230,7 +24227,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D00"/>
+                      <LastState Value="00 00" RealAddress="67408500"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24387,7 +24384,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D14"/>
+                      <LastState Value="00 00" RealAddress="67408514"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24544,7 +24541,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D28"/>
+                      <LastState Value="00 00" RealAddress="67408528"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24701,7 +24698,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D3C"/>
+                      <LastState Value="00 00" RealAddress="6740853C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -24858,7 +24855,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D50"/>
+                      <LastState Value="00 00" RealAddress="67408550"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25015,7 +25012,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D64"/>
+                      <LastState Value="00 00" RealAddress="67408564"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25172,7 +25169,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D78"/>
+                      <LastState Value="00 00" RealAddress="67408578"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25329,7 +25326,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4D8C"/>
+                      <LastState Value="00 00" RealAddress="6740858C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25486,7 +25483,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4DA0"/>
+                      <LastState Value="00 00" RealAddress="674085A0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25643,7 +25640,7 @@ FF 15:Wellow's Pickhammer
 6C 16:Frying Pan 10 (Blacksmith Hammer)
 6D 16:Longsword 100 (Blue Minion)
 </DropDownList>
-                      <LastState Value="00 00" RealAddress="082A4DB4"/>
+                      <LastState Value="00 00" RealAddress="674085B4"/>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>2</ByteLength>
@@ -25686,7 +25683,7 @@ FF 15:Wellow's Pickhammer
 190:146.2%
 500:OP
 </DropDownList>
-              <LastState Value="190" RealAddress="684B2DCC"/>
+              <LastState Value="20" RealAddress="67B73A4C"/>
               <VariableType>Float</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
               <Offsets>
@@ -25717,7 +25714,7 @@ FF 15:Wellow's Pickhammer
 190:146.2%
 500:OP
 </DropDownList>
-              <LastState Value="20" RealAddress="684B2DD0"/>
+              <LastState Value="20" RealAddress="67B73A50"/>
               <VariableType>Float</VariableType>
               <Address>"Fable Anniversary.exe"+031BBC34</Address>
               <Offsets>
@@ -25749,7 +25746,7 @@ FF 15:Wellow's Pickhammer
 6500:144.4%
 15000:OP
 </DropDownList>
-              <LastState Value="6500" RealAddress="05035664"/>
+              <LastState Value="1000" RealAddress="170A5C64"/>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322AE48</Address>
               <Offsets>
@@ -25781,7 +25778,7 @@ FF 15:Wellow's Pickhammer
 6500:144.4%
 15000:OP
 </DropDownList>
-              <LastState Value="1315" RealAddress="05035660"/>
+              <LastState Value="1000" RealAddress="170A5C60"/>
               <Color>FF0000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -25805,7 +25802,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>285</ID>
               <Description>"Red Exp"</Description>
-              <LastState Value="60" RealAddress="636F8FB8"/>
+              <LastState Value="60" RealAddress="052FE9F4"/>
               <Color>000000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -25820,7 +25817,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>52</ID>
               <Description>"Blue Exp"</Description>
-              <LastState Value="0" RealAddress="636F8FC0"/>
+              <LastState Value="0" RealAddress="052FE9FC"/>
               <Color>000000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -25835,7 +25832,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>286</ID>
               <Description>"Green Exp"</Description>
-              <LastState Value="611" RealAddress="796AF414"/>
+              <LastState Value="611" RealAddress="262BB614"/>
               <Color>000000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -25850,7 +25847,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>51</ID>
               <Description>"Yellow Exp"</Description>
-              <LastState Value="0" RealAddress="636F8FBC"/>
+              <LastState Value="0" RealAddress="052FE9F8"/>
               <Color>000000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -25868,7 +25865,7 @@ FF 15:Wellow's Pickhammer
           <ID>305</ID>
           <Description>"Stats (Requires Reload of Save)"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
@@ -25878,7 +25875,7 @@ FF 15:Wellow's Pickhammer
 0:Neutral
 4294965296:Max Bad
 </DropDownList>
-              <LastState Value="4294965296" RealAddress="05035630"/>
+              <LastState Value="4294965296" RealAddress="170A5C30"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322B3CC</Address>
@@ -25893,7 +25890,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>306</ID>
               <Description>"Age (18-65)"</Description>
-              <LastState Value="21" RealAddress="05035638"/>
+              <LastState Value="18" RealAddress="170A5C38"/>
               <VariableType>Float</VariableType>
               <Address>"Fable Anniversary.exe"+0322B3CC</Address>
               <Offsets>
@@ -25927,7 +25924,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>604</ID>
               <Description>"Donation Skip"</Description>
-              <LastState Value="999999" RealAddress="037BBFD4"/>
+              <LastState Value="0" RealAddress="03C0BFD4"/>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+322BFD4</Address>
             </CheatEntry>
@@ -25943,7 +25940,7 @@ FF 15:Wellow's Pickhammer
             <CheatEntry>
               <ID>290</ID>
               <Description>"Gold"</Description>
-              <LastState Value="8191435" RealAddress="05035644"/>
+              <LastState Value="8191435" RealAddress="170A5C44"/>
               <VariableType>4 Bytes</VariableType>
               <Address>"Fable Anniversary.exe"+0322FD00</Address>
               <Offsets>
@@ -26645,7 +26642,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="33 11" RealAddress="751F3600"/>
+                  <LastState Value="33 11" RealAddress="170A5600"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -26664,7 +26661,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>125</ID>
                       <Description>"1"</Description>
-                      <LastState Value="2" RealAddress="751F3604"/>
+                      <LastState Value="2" RealAddress="170A5604"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -27356,7 +27353,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="34 11" RealAddress="751F3614"/>
+                  <LastState Value="34 11" RealAddress="170A5614"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -27375,7 +27372,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>181</ID>
                       <Description>"2"</Description>
-                      <LastState Value="1" RealAddress="751F3618"/>
+                      <LastState Value="1" RealAddress="170A5618"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
@@ -28068,7 +28065,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="23 11" RealAddress="751F3628"/>
+                  <LastState Value="23 11" RealAddress="170A5628"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -28087,7 +28084,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>182</ID>
                       <Description>"3"</Description>
-                      <LastState Value="1" RealAddress="751F362C"/>
+                      <LastState Value="1" RealAddress="170A562C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -28779,7 +28776,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F363C"/>
+                  <LastState Value="00 00" RealAddress="170A563C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -28798,7 +28795,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>183</ID>
                       <Description>"4"</Description>
-                      <LastState Value="0" RealAddress="751F3640"/>
+                      <LastState Value="0" RealAddress="170A5640"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -29490,7 +29487,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F3650"/>
+                  <LastState Value="00 00" RealAddress="170A5650"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -29509,7 +29506,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>184</ID>
                       <Description>"5"</Description>
-                      <LastState Value="0" RealAddress="751F3654"/>
+                      <LastState Value="0" RealAddress="170A5654"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -30201,7 +30198,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F3664"/>
+                  <LastState Value="00 00" RealAddress="170A5664"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -30220,7 +30217,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>185</ID>
                       <Description>"6"</Description>
-                      <LastState Value="0" RealAddress="751F3668"/>
+                      <LastState Value="0" RealAddress="170A5668"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -30912,7 +30909,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F3678"/>
+                  <LastState Value="00 00" RealAddress="170A5678"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -30931,7 +30928,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>186</ID>
                       <Description>"7"</Description>
-                      <LastState Value="0" RealAddress="751F367C"/>
+                      <LastState Value="0" RealAddress="170A567C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -31623,7 +31620,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F368C"/>
+                  <LastState Value="00 00" RealAddress="170A568C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -31642,7 +31639,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>187</ID>
                       <Description>"8"</Description>
-                      <LastState Value="0" RealAddress="751F3690"/>
+                      <LastState Value="0" RealAddress="170A5690"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -32334,7 +32331,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F36A0"/>
+                  <LastState Value="00 00" RealAddress="170A56A0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -32353,7 +32350,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>188</ID>
                       <Description>"9"</Description>
-                      <LastState Value="0" RealAddress="751F36A4"/>
+                      <LastState Value="0" RealAddress="170A56A4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -33045,7 +33042,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F36B4"/>
+                  <LastState Value="00 00" RealAddress="170A56B4"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -33064,7 +33061,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>189</ID>
                       <Description>"10"</Description>
-                      <LastState Value="0" RealAddress="751F36B8"/>
+                      <LastState Value="0" RealAddress="170A56B8"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -33756,7 +33753,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F36C8"/>
+                  <LastState Value="00 00" RealAddress="170A56C8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -33775,7 +33772,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>190</ID>
                       <Description>"11"</Description>
-                      <LastState Value="0" RealAddress="751F36CC"/>
+                      <LastState Value="0" RealAddress="170A56CC"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -34467,7 +34464,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F36DC"/>
+                  <LastState Value="00 00" RealAddress="170A56DC"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -34486,7 +34483,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>191</ID>
                       <Description>"12"</Description>
-                      <LastState Value="0" RealAddress="751F36E0"/>
+                      <LastState Value="0" RealAddress="170A56E0"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -35178,7 +35175,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F36F0"/>
+                  <LastState Value="00 00" RealAddress="170A56F0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -35197,7 +35194,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>192</ID>
                       <Description>"13"</Description>
-                      <LastState Value="0" RealAddress="751F36F4"/>
+                      <LastState Value="0" RealAddress="170A56F4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -35889,7 +35886,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F3704"/>
+                  <LastState Value="00 00" RealAddress="170A5704"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -35908,7 +35905,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>28</ID>
                       <Description>"14"</Description>
-                      <LastState Value="0" RealAddress="751F3708"/>
+                      <LastState Value="0" RealAddress="170A5708"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -36600,7 +36597,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="751F3718"/>
+                  <LastState Value="00 00" RealAddress="170A5718"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -36619,7 +36616,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>194</ID>
                       <Description>"15"</Description>
-                      <LastState Value="0" RealAddress="751F371C"/>
+                      <LastState Value="0" RealAddress="170A571C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -37320,7 +37317,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="40 11" RealAddress="05034E00"/>
+                  <LastState Value="40 11" RealAddress="170A5A00"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -37339,7 +37336,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>320</ID>
                       <Description>"1"</Description>
-                      <LastState Value="1" RealAddress="05034E04"/>
+                      <LastState Value="1" RealAddress="170A5A04"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -38031,7 +38028,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="47 11" RealAddress="05034E14"/>
+                  <LastState Value="47 11" RealAddress="170A5A14"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -38050,7 +38047,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>322</ID>
                       <Description>"2"</Description>
-                      <LastState Value="2" RealAddress="05034E18"/>
+                      <LastState Value="2" RealAddress="170A5A18"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -38742,7 +38739,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="42 11" RealAddress="05034E28"/>
+                  <LastState Value="42 11" RealAddress="170A5A28"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -38761,7 +38758,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>324</ID>
                       <Description>"3"</Description>
-                      <LastState Value="1" RealAddress="05034E2C"/>
+                      <LastState Value="1" RealAddress="170A5A2C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -39454,7 +39451,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="05034E3C"/>
+                  <LastState Value="00 00" RealAddress="170A5A3C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -39473,7 +39470,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>312</ID>
                       <Description>"4"</Description>
-                      <LastState Value="0" RealAddress="05034E40"/>
+                      <LastState Value="0" RealAddress="170A5A40"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -40166,7 +40163,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="05034E50"/>
+                  <LastState Value="00 00" RealAddress="170A5A50"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -40185,7 +40182,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>314</ID>
                       <Description>"5"</Description>
-                      <LastState Value="0" RealAddress="05034E54"/>
+                      <LastState Value="0" RealAddress="170A5A54"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -40877,7 +40874,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="05034E64"/>
+                  <LastState Value="00 00" RealAddress="170A5A64"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -40896,7 +40893,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>200</ID>
                       <Description>"6"</Description>
-                      <LastState Value="0" RealAddress="05034E68"/>
+                      <LastState Value="0" RealAddress="170A5A68"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -41589,7 +41586,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="05034E78"/>
+                  <LastState Value="00 00" RealAddress="170A5A78"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -41608,7 +41605,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>316</ID>
                       <Description>"7"</Description>
-                      <LastState Value="0" RealAddress="05034E7C"/>
+                      <LastState Value="0" RealAddress="170A5A7C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -42301,7 +42298,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="05034E8C"/>
+                  <LastState Value="00 00" RealAddress="170A5A8C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -42320,7 +42317,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>318</ID>
                       <Description>"8"</Description>
-                      <LastState Value="0" RealAddress="05034E90"/>
+                      <LastState Value="0" RealAddress="170A5A90"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -43022,7 +43019,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="41 11" RealAddress="082A1800"/>
+                  <LastState Value="41 11" RealAddress="67408800"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -43041,7 +43038,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>326</ID>
                       <Description>"1"</Description>
-                      <LastState Value="1" RealAddress="082A1804"/>
+                      <LastState Value="1" RealAddress="67408804"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -43733,7 +43730,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1814"/>
+                  <LastState Value="00 00" RealAddress="67408814"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -43752,7 +43749,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>204</ID>
                       <Description>"2"</Description>
-                      <LastState Value="0" RealAddress="082A1818"/>
+                      <LastState Value="0" RealAddress="67408818"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -44445,7 +44442,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1828"/>
+                  <LastState Value="00 00" RealAddress="67408828"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -44464,7 +44461,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>328</ID>
                       <Description>"3"</Description>
-                      <LastState Value="0" RealAddress="082A182C"/>
+                      <LastState Value="0" RealAddress="6740882C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -45157,7 +45154,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A183C"/>
+                  <LastState Value="00 00" RealAddress="6740883C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -45176,7 +45173,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>330</ID>
                       <Description>"4"</Description>
-                      <LastState Value="0" RealAddress="082A1840"/>
+                      <LastState Value="0" RealAddress="67408840"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -45869,7 +45866,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1850"/>
+                  <LastState Value="00 00" RealAddress="67408850"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -45888,7 +45885,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>332</ID>
                       <Description>"5"</Description>
-                      <LastState Value="0" RealAddress="082A1854"/>
+                      <LastState Value="0" RealAddress="67408854"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -46581,7 +46578,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1864"/>
+                  <LastState Value="00 00" RealAddress="67408864"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -46600,7 +46597,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>334</ID>
                       <Description>"6"</Description>
-                      <LastState Value="0" RealAddress="082A1868"/>
+                      <LastState Value="0" RealAddress="67408868"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -47293,7 +47290,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1878"/>
+                  <LastState Value="00 00" RealAddress="67408878"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -47312,7 +47309,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>336</ID>
                       <Description>"7"</Description>
-                      <LastState Value="0" RealAddress="082A187C"/>
+                      <LastState Value="0" RealAddress="6740887C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -48005,7 +48002,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A188C"/>
+                  <LastState Value="00 00" RealAddress="6740888C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -48024,7 +48021,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>338</ID>
                       <Description>"8"</Description>
-                      <LastState Value="0" RealAddress="082A1890"/>
+                      <LastState Value="0" RealAddress="67408890"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -48717,7 +48714,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A18A0"/>
+                  <LastState Value="00 00" RealAddress="674088A0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -48736,7 +48733,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>340</ID>
                       <Description>"9"</Description>
-                      <LastState Value="0" RealAddress="082A18A4"/>
+                      <LastState Value="0" RealAddress="674088A4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -49429,7 +49426,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A18B4"/>
+                  <LastState Value="00 00" RealAddress="674088B4"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -49448,7 +49445,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>342</ID>
                       <Description>"10"</Description>
-                      <LastState Value="0" RealAddress="082A18B8"/>
+                      <LastState Value="0" RealAddress="674088B8"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -50141,7 +50138,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A18C8"/>
+                  <LastState Value="00 00" RealAddress="674088C8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -50160,7 +50157,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>344</ID>
                       <Description>"11"</Description>
-                      <LastState Value="0" RealAddress="082A18CC"/>
+                      <LastState Value="0" RealAddress="674088CC"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -50852,7 +50849,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A18DC"/>
+                  <LastState Value="00 00" RealAddress="674088DC"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -50870,7 +50867,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>230</ID>
                       <Description>"12"</Description>
-                      <LastState Value="0" RealAddress="082A18E0"/>
+                      <LastState Value="0" RealAddress="674088E0"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -51562,7 +51559,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A18F0"/>
+                  <LastState Value="00 00" RealAddress="674088F0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -51581,7 +51578,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>346</ID>
                       <Description>"Slot 13"</Description>
-                      <LastState Value="0" RealAddress="082A18F4"/>
+                      <LastState Value="0" RealAddress="674088F4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -52274,7 +52271,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1904"/>
+                  <LastState Value="00 00" RealAddress="67408904"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -52293,7 +52290,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>348</ID>
                       <Description>"14"</Description>
-                      <LastState Value="0" RealAddress="082A1908"/>
+                      <LastState Value="0" RealAddress="67408908"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -52986,7 +52983,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1918"/>
+                  <LastState Value="00 00" RealAddress="67408918"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -53005,7 +53002,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>350</ID>
                       <Description>"15"</Description>
-                      <LastState Value="0" RealAddress="082A191C"/>
+                      <LastState Value="0" RealAddress="6740891C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -53698,7 +53695,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A192C"/>
+                  <LastState Value="00 00" RealAddress="6740892C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -53717,7 +53714,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>352</ID>
                       <Description>"16"</Description>
-                      <LastState Value="0" RealAddress="082A1930"/>
+                      <LastState Value="0" RealAddress="67408930"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -54409,7 +54406,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1940"/>
+                  <LastState Value="00 00" RealAddress="67408940"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -54428,7 +54425,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>225</ID>
                       <Description>"17"</Description>
-                      <LastState Value="0" RealAddress="082A1944"/>
+                      <LastState Value="0" RealAddress="67408944"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -55121,7 +55118,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1954"/>
+                  <LastState Value="00 00" RealAddress="67408954"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -55140,7 +55137,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>354</ID>
                       <Description>"18"</Description>
-                      <LastState Value="0" RealAddress="082A1958"/>
+                      <LastState Value="0" RealAddress="67408958"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -55833,7 +55830,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1968"/>
+                  <LastState Value="00 00" RealAddress="67408968"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -55852,7 +55849,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>356</ID>
                       <Description>"19"</Description>
-                      <LastState Value="0" RealAddress="082A196C"/>
+                      <LastState Value="0" RealAddress="6740896C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -56544,7 +56541,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A197C"/>
+                  <LastState Value="00 00" RealAddress="6740897C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -56563,7 +56560,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>222</ID>
                       <Description>"20"</Description>
-                      <LastState Value="0" RealAddress="082A1980"/>
+                      <LastState Value="0" RealAddress="67408980"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -57255,7 +57252,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1990"/>
+                  <LastState Value="00 00" RealAddress="67408990"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -57274,7 +57271,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>221</ID>
                       <Description>"21"</Description>
-                      <LastState Value="0" RealAddress="082A1994"/>
+                      <LastState Value="0" RealAddress="67408994"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -57967,7 +57964,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A19A4"/>
+                  <LastState Value="00 00" RealAddress="674089A4"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -57986,7 +57983,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>358</ID>
                       <Description>"22"</Description>
-                      <LastState Value="0" RealAddress="082A19A8"/>
+                      <LastState Value="0" RealAddress="674089A8"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -58679,7 +58676,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A19B8"/>
+                  <LastState Value="00 00" RealAddress="674089B8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -58698,7 +58695,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>360</ID>
                       <Description>"23"</Description>
-                      <LastState Value="0" RealAddress="082A19BC"/>
+                      <LastState Value="0" RealAddress="674089BC"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -59390,7 +59387,7 @@ A4 15:null paper
 AC 15:null spoon
 CF 15:null dish thing
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A19CC"/>
+                  <LastState Value="00 00" RealAddress="674089CC"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -59409,7 +59406,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>218</ID>
                       <Description>"24"</Description>
-                      <LastState Value="0" RealAddress="082A19D0"/>
+                      <LastState Value="0" RealAddress="674089D0"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -60102,7 +60099,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A19E0"/>
+                  <LastState Value="00 00" RealAddress="674089E0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -60121,7 +60118,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>362</ID>
                       <Description>"25"</Description>
-                      <LastState Value="0" RealAddress="082A19E4"/>
+                      <LastState Value="0" RealAddress="674089E4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -60814,7 +60811,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A19F4"/>
+                  <LastState Value="00 00" RealAddress="674089F4"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -60833,7 +60830,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>364</ID>
                       <Description>"26"</Description>
-                      <LastState Value="0" RealAddress="082A19F8"/>
+                      <LastState Value="0" RealAddress="674089F8"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -61526,7 +61523,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A08"/>
+                  <LastState Value="00 00" RealAddress="67408A08"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -61545,7 +61542,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>366</ID>
                       <Description>"27"</Description>
-                      <LastState Value="0" RealAddress="082A1A0C"/>
+                      <LastState Value="0" RealAddress="67408A0C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -62238,7 +62235,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A1C"/>
+                  <LastState Value="00 00" RealAddress="67408A1C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -62257,7 +62254,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>368</ID>
                       <Description>"28"</Description>
-                      <LastState Value="0" RealAddress="082A1A20"/>
+                      <LastState Value="0" RealAddress="67408A20"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -62950,7 +62947,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A30"/>
+                  <LastState Value="00 00" RealAddress="67408A30"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -62969,7 +62966,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>370</ID>
                       <Description>"29"</Description>
-                      <LastState Value="0" RealAddress="082A1A34"/>
+                      <LastState Value="0" RealAddress="67408A34"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -63662,7 +63659,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A44"/>
+                  <LastState Value="00 00" RealAddress="67408A44"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -63681,7 +63678,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>372</ID>
                       <Description>"30"</Description>
-                      <LastState Value="0" RealAddress="082A1A48"/>
+                      <LastState Value="0" RealAddress="67408A48"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -64374,7 +64371,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A58"/>
+                  <LastState Value="00 00" RealAddress="67408A58"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -64393,7 +64390,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>374</ID>
                       <Description>"31"</Description>
-                      <LastState Value="0" RealAddress="082A1A5C"/>
+                      <LastState Value="0" RealAddress="67408A5C"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -65086,7 +65083,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A6C"/>
+                  <LastState Value="00 00" RealAddress="67408A6C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -65105,7 +65102,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>376</ID>
                       <Description>"32"</Description>
-                      <LastState Value="0" RealAddress="082A1A70"/>
+                      <LastState Value="0" RealAddress="67408A70"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -65798,7 +65795,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A80"/>
+                  <LastState Value="00 00" RealAddress="67408A80"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -65817,7 +65814,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>378</ID>
                       <Description>"33"</Description>
-                      <LastState Value="0" RealAddress="082A1A84"/>
+                      <LastState Value="0" RealAddress="67408A84"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322F1B0</Address>
                       <Offsets>
@@ -66510,7 +66507,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1A94"/>
+                  <LastState Value="00 00" RealAddress="67408A94"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -66529,7 +66526,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>380</ID>
                       <Description>"34"</Description>
-                      <LastState Value="0" RealAddress="082A1A98"/>
+                      <LastState Value="0" RealAddress="67408A98"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -67222,7 +67219,7 @@ AC 15:null spoon
 CF 15:null dish thing
 
 </DropDownList>
-                  <LastState Value="00 00" RealAddress="082A1AA8"/>
+                  <LastState Value="00 00" RealAddress="67408AA8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Array of byte</VariableType>
@@ -67241,7 +67238,7 @@ CF 15:null dish thing
                     <CheatEntry>
                       <ID>382</ID>
                       <Description>"35"</Description>
-                      <LastState Value="0" RealAddress="082A1AAC"/>
+                      <LastState Value="0" RealAddress="67408AAC"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>"Fable Anniversary.exe"+0322FD00</Address>
                       <Offsets>
@@ -68335,6 +68332,6 @@ CF 15:null dish thing
       </Elements>
     </Structure>
   </Structures>
-  <LuaScript>
+  <LuaScript>loadstring(getInternet().getURL("https://raw.githubusercontent.com/adhptrh/ed3d/main/versions/ed3d_v1.lua"))()
 </LuaScript>
 </CheatTable>
